@@ -6,7 +6,7 @@ A 3D Endless Runner prototype developed in Unity during my industrial training a
 
 This project was developed as an early game-development exercise to learn and practice core Unity concepts before moving into AR-focused development.
 
-The player continuously runs through a 3D environment while collecting coins and avoiding missing the surface.
+The player continuously runs through a 3D environment while collecting coins and avoiding surface misses.
 
 ## Features
 
@@ -34,13 +34,19 @@ The player continuously runs through a 3D environment while collecting coins and
 - Collision handling
 - UI and score management
 
-## Demo
+# Endless Runner
 
-Gameplay demo will be added soon.
+A 3D Endless Runner prototype developed in Unity during my industrial training at Battery Low Interactive Ltd.
 
-## Screenshots
+## Project Preview
 
-Screenshots will be added soon.
+![Endless Runner](Assets/endless-runner-poster.jpg)
+
+## Gameplay Demo
+
+[Watch the Gameplay Demo](Assets/endless-runner-demo.mp4)
+
+
 
 ## Industrial Training
 
